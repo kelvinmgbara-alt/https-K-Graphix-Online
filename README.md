@@ -1,1 +1,1 @@
-It's a website for client to easily access a graphic designer online.
+It's a website for client to easily access a graphic designer online. And also making it easier for clients to get a good graphic designer at a cheap price.
